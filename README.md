@@ -8,6 +8,7 @@
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-13e0ff0c88da.gif" width=200><br>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-307da1dc3ebf.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
