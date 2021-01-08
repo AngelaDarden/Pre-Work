@@ -1,17 +1,14 @@
-# Pre-Work
-## NAME_OF_YOUR_APP_HERE
+# Pre-Work Project
 
 ### App Description
-`TODO://` Add app description
+This app shows the required and optional features for the iOS Intro to Mobile Development class.
+You can change what the text says by entering text or clicking the change text button, change the color of the text, the background color, and reset them all back to the default if the background is clicked.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-13e0ff0c88da.gif" width=200><br>
 <img src="https://im2.ezgif.com/tmp/ezgif-2-307da1dc3ebf.gif" width=200><br>
 <img src="https://im3.ezgif.com/tmp/ezgif-3-730f0b00784f.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
