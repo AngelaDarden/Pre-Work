@@ -9,6 +9,7 @@
 
 <img src="https://im2.ezgif.com/tmp/ezgif-2-13e0ff0c88da.gif" width=200><br>
 <img src="https://im2.ezgif.com/tmp/ezgif-2-307da1dc3ebf.gif" width=200><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-730f0b00784f.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
@@ -19,10 +20,10 @@
 
 ### Optional User Stories
 - [x] 1. User can tap a button to change the color of the background view.
-- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [x] 2. User can tap a button to change the text string of the label - Goodbye 👋.
 - [x] 3. User can tap on the background view to reset all views to default settings.
 - [x] 4. User can update the label text with custom text entered into the text field.
    - [x] a. User can enter text into a text field using the keyboard.
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
+   - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped.
