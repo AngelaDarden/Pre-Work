@@ -7,7 +7,7 @@ You can change what the text says by entering text or clicking the change text b
 ### App Walk-though
 
 <img src="http://g.recordit.co/3FwR0m7Gju.gif" width=200><br>
-<img src="" width=200><br>
+<img src="http://g.recordit.co/ZXz4xxnfbK.gif" width=200><br>
 <img src="" width=200><br>
 
 ### Required User Stories
