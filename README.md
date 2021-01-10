@@ -6,9 +6,9 @@ You can change what the text says by entering text or clicking the change text b
 
 ### App Walk-though
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-13e0ff0c88da.gif" width=200><br>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-307da1dc3ebf.gif" width=200><br>
-<img src="https://im3.ezgif.com/tmp/ezgif-3-730f0b00784f.gif" width=200><br>
+<img src="http://g.recordit.co/3FwR0m7Gju.gif" width=200><br>
+<img src="" width=200><br>
+<img src="" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
